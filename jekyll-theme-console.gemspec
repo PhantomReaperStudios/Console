@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-console"
+  spec.name          = "jekyll-theme-phantomreaper"
   spec.version       = "0.3.7"
   spec.authors       = ["PhantomReaperStudios"]
   spec.email         = ["31370519+b2a3e8@users.noreply.github.com"]
